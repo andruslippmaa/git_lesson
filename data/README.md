@@ -1,0 +1,3 @@
+# data
+
+Thsi folder contains raw data used for analysis.
